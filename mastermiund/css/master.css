@@ -1,0 +1,63 @@
+
+body{
+  cursor:
+}
+
+
+#color0 {
+  background-color: red;
+}
+ #color1 {
+   background-color: orange;
+ }
+
+ #color2 {
+   background-color: yellow;
+ }
+
+ #color3 {
+   background-color: green;
+ }
+
+ #color4 {
+   background-color: blue;
+ }
+
+ #color5 {
+   background-color: purple;
+ }
+
+ .kegel{
+ 	width: 45px;
+ 	height: 45px;
+ 	margin: 6px 5px;
+ 	border-radius: 50%;
+ 	display: inline-block;
+ 	border: 5px solid black;
+ }
+
+
+ .kegelcheck {
+   display: inline-block;
+   width:21px;
+   height: 21px;
+   border-radius:50%;
+   border:2px solid black;
+   margin-left: 2px;
+   background-color:black;
+ }
+
+ .rijcheckbox {
+   display: inline-block;
+   width: 75px;
+   height: 50px;
+ }
+
+
+ .cirle {
+   display: inline-block;
+   width:50px;
+   height: 50px;
+   border-radius:50%;
+   border:5px solid black;
+ }
